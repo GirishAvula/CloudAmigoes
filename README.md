@@ -1,5 +1,5 @@
 # CloudAmigoes
-**Sustainability Benchmarking &amp; Predictive Forecasting******
+******Sustainability Benchmarking &amp; Predictive Forecasting******
 
 Our hackathon concept, **'Sustainability Benchmarking & Predictive Forecasting'** features a dynamic dashboard designed to accept PDFs as inputs. These PDFs are seamlessly uploaded to **Google Storage buckets**, streamlining the data acquisition process. Leveraging the powerful capabilities of **Google Cloud Platform's (GCP) 'Vertex AI Search and Conversation' service**, we employ generative AI to process these PDFs. This service not only extracts key insights but also responds to user queries initiated from the dashboard through API interactions, enhancing the efficiency and interactivity of our solution.
 
