@@ -3,6 +3,8 @@
 
 Our hackathon concept, **'Sustainability Benchmarking & Predictive Forecasting'** features a dynamic dashboard designed to accept PDFs as inputs. These PDFs are seamlessly uploaded to **Google Storage buckets**, streamlining the data acquisition process. Leveraging the powerful capabilities of **Google Cloud Platform's (GCP) 'Vertex AI Search and Conversation' service**, we employ generative AI to process these PDFs. This service not only extracts key insights but also responds to user queries initiated from the dashboard through API interactions, enhancing the efficiency and interactivity of our solution.
 
+
+
 ****Technical stack :****
 we leverage **Java and Spring Boot** to develop a robust **backend system**. This backend is responsible for handling various functionalities, including the creation of a dynamic dashboard using **React.js** for the **frontend**. The dashboard interface allows users to seamlessly upload PDF documents, facilitated by integration with **Google Storage buckets using App Engine**.
 
@@ -13,6 +15,10 @@ Furthermore, we integrate **Google Cloud Platform's (GCP) Vertex AI Search and C
 Additionally, authentication and authorization functionalities are implemented using Spring Security, ensuring secure access to the dashboard and its features.
 
 Overall, our solution encapsulates the synergy between Java, Spring Boot, React.js, App Engine, and Maven to deliver a comprehensive and interactive platform for sustainability benchmarking and predictive forecasting.
+
+
+
+
 
 
 ****APIs developed to enhance functionality, interaction, and data processing:****  
